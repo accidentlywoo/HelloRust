@@ -78,3 +78,5 @@ $ cargo run
 
 - Cargo convention
 rust 프로젝트가 복잡해질수록 Cargo는 큰 가치를 제공해준다.
+
+## 기본 문법 맛보기
